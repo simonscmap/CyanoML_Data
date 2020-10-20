@@ -1,4 +1,4 @@
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4108150.svg)](https://doi.org/10.5281/zenodo.4108150)
 
 # Simons CMAP Article: Case Study
 This repository contains a few Python scripts demonstrating how to retrieve and colocalize data sets.
